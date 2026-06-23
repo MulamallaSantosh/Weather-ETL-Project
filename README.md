@@ -1,5 +1,5 @@
 # Weather-ETL-Project
-This is a weather data ETL pipeline and dashboard.This is a weather data ETL pipeline & dashboard.
+This is a weather data ETL pipeline and dashboard.
 
 ## Overview
 
