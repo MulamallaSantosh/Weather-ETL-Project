@@ -1,0 +1,6 @@
+city,temperature,humidity,pressure,description,timestamp
+Munich,31.32,40,1020,scattered clouds,2026-06-23 13:06:14.233070
+Berlin,27.26,44,1022,broken clouds,2026-06-23 13:06:14.523909
+Paris,35.11,40,1019,scattered clouds,2026-06-23 13:06:14.574920
+London,29.15,61,1019,few clouds,2026-06-23 13:06:14.632509
+Rome,21.37,90,1017,overcast clouds,2026-06-23 13:06:14.690285
