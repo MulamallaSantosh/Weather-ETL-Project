@@ -94,6 +94,7 @@ This feature takes into account the actual monitoring and warning systems in the
 ## Dashboard (Power BI)
 
 The Power BI dashboard gives a dynamic visualization of the data:
+
 <img width="754" height="428" alt="image" src="https://github.com/user-attachments/assets/038939b3-a2fe-4118-8a87-f08410e7b019" />
 
 The dashboard allows users to easily gain insight into patterns, and compare conditions between locations.
