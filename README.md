@@ -142,6 +142,3 @@ Implementing system on cloud platforms.
 Incorporating real time streaming pipelines  
 Improve alerting with advanced triggering and alert rules  
 
----
-
-## Project Structure
