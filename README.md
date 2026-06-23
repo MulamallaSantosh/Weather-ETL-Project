@@ -7,7 +7,6 @@ This project is an entire end-to-end pipeline with ETL (Extract, Transform, Load
 
 The project is one example of the ways raw data can be turned into valuable information via a proper Business Intelligence workflow.
 
----
 
 ## Business Case
 
@@ -25,7 +24,7 @@ Gathers up-to-the-minute weather information from several cities.
 
 The aim is to replicate a ‘real world' BI solution with data to aid in monitoring and decision-making.
 
----
+
 
 ## Technologies Used
 
@@ -36,7 +35,7 @@ The source of data is OpenWeather API.OpenWeather API is used as data source.
 - **SMTP** (Email Alerts)  
 Task Scheduling (Automation) in Windows Task Scheduler.
 
----
+
 
 ## ETL Pipeline
 
@@ -50,7 +49,7 @@ The following cities' weather data is gathered from the OpenWeather API:
 
 The data consists of temperature, humidity, pressure, weather description and timestamps.
 
----
+
 
 ### 2. Transform
 Data is extracted, cleaned and prepared with Python:
@@ -64,7 +63,7 @@ When a new feature, "temperature category", is added to the table.When a new fea
 
 This is an important step to get the data ready for analysis.
 
----
+
 
 ### 3. Load
 The cleaned data has been put into a PostgreSQL database:
@@ -74,7 +73,7 @@ The cleaned data has been put into a PostgreSQL database:
 
 The data is added on every run of the pipeline, which gives the ability to track data over time.
 
----
+
 
 ## Automation & Alerts
 
@@ -90,7 +89,7 @@ Alerts will be generated when:
 
 This feature takes into account the actual monitoring and warning systems in the real world.
 
----
+
 
 ## Dashboard (Power BI)
 
@@ -112,7 +111,6 @@ The Power BI dashboard gives a dynamic visualization of the data:
 
 The dashboard allows users to easily gain insight into patterns, and compare conditions between locations.
 
----
 
 ## Key Insights
 
@@ -123,7 +121,6 @@ The temperature in Paris is the highest of the selected cities all the time.
 
 The insights show the power of processing data to aid informed decision-making.
 
----
 
 ## Conclusion
 
@@ -133,7 +130,6 @@ It illustrates the value of real-time data being turned into actionable intellig
 
 The solution is representative of real-life industrial use cases, in which continuous data processing and monitoring are key.
 
----
 
 ## Future Improvements
 
